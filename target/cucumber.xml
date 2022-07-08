@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="18.614">
+    <testcase classname="ComputerDatabase" name="Add a new computer to the computer database" time="6.236">
+        <system-out><![CDATA[Given I am on the Play sample application home page.........................passed
+When I click on "Add new computer" button...................................passed
+And I enter information as follows..........................................passed
+Then I should be able to add the computer name to the computer database.....passed
+]]></system-out>
+    </testcase>
+    <testcase classname="ComputerDatabase" name="Add a new computer to the computer database 2" time="4.046">
+        <system-out><![CDATA[Given I am on the Play sample application home page.........................passed
+When I click on "Add new computer" button...................................passed
+And I enter information as follows..........................................passed
+Then I should be able to add the computer name to the computer database.....passed
+]]></system-out>
+    </testcase>
+    <testcase classname="ComputerDatabase" name="Add a new computer to the computer database 3" time="3.963">
+        <system-out><![CDATA[Given I am on the Play sample application home page.........................passed
+When I click on "Add new computer" button...................................passed
+And I enter information as follows..........................................passed
+Then I should be able to add the computer name to the computer database.....passed
+]]></system-out>
+    </testcase>
+    <testcase classname="ComputerDatabase" name="Add a new computer to the computer database 4" time="3.997">
+        <system-out><![CDATA[Given I am on the Play sample application home page.........................passed
+When I click on "Add new computer" button...................................passed
+And I enter information as follows..........................................passed
+Then I should be able to add the computer name to the computer database.....passed
+]]></system-out>
+    </testcase>
+</testsuite>
