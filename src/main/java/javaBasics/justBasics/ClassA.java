@@ -11,4 +11,13 @@ public class ClassA {
         System.out.println("This is my first program");
 
     }
+
+    @Test
+    public void mySecondMethod() {
+        System.out.println("Hello Earth");
+        System.out.println("This is me trying out GITHUB");
+
+    }
+
+
 }
